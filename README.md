@@ -1,2 +1,3 @@
 # Quantum-Interpersonal-Dynamics
 Quantum Interpersonal Dynamics (QID): A formal theory unifying quantum measurement and cognitive dynamics through energy-optimal information projection. It reframes reality through the physics of interaction.
+A formal framework modeling interpersonal and cognitive dynamics through quantum information theory. QID posits that quantum measurement and human decision-making are both manifestations of a single, energy-optimal "Information Projection" process. This provides a new foundation for understanding multi-agent systems, cognitive architecture, and social physics.
